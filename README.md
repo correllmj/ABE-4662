@@ -1,17 +1,9 @@
-## ABE-4662
+## ABE-4662 Quantification of Biological Processes
 ______________________________________
-Working to put ABE 4662 on Github
+Working to put ABE 4662 on Github version 5.20.21
 
 ## Topics covered:
 
-1. [Basic Python](00-Studying-Mathematics-with-Python.ipynb)
-2. [Using Sympy](01-Symbolic-mathematics-with-Sympy.ipynb) for symbolic
-   mathematics.
-3. [Using Numpy](02-Linear-algebra-with-Numpy.ipynb) for linear algebra.
-4. [Using Pandas](03-Data-analysis-with-Pandas.ipynb) for basic handling of
-   data.
-5. [Using matplotlib for visualisation](04-Visualisation-with-matplotlib.ipynb)
-   for visualisation.
 
 ## Creating the pdfs and tex files:
 
