@@ -25,6 +25,11 @@ laptop you will need to install Jupyter and Python 3, such as the excellent
 - [1.4 Python Numeric Integration Revisited](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/01.04-Python-Numeric-Integration-Revisited.ipynb)
 
 ### [Chapter 2.0 Introduction to Python](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/02.00-Process-Modeling.ipynb)
+- [2.1  Tutorial 1 Python and Jupyter Notebooks](https://github.com/correllmj/ABE-4662/blob/master/Python%20Tutorial%20Zero%20Getting%20Started%20Quickly.ipynb)
+- [2.2 Python Basics](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/01.02-Python-Basics.ipynb)
+- [2.3 Python Conditionals and Libraries](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/01.03-Python-Conditionals-and-Libraries.ipynb)
+- [2.4 Python Numeric Integration Revisited](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/01.04-Python-Numeric-Integration-Revisited.ipynb)
+
 ## Creating the pdfs and tex files:
 
 Create the conda environment from the file:
