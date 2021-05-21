@@ -31,7 +31,7 @@ laptop you will need to install Jupyter and Python 3, such as the excellent
 - [2.4 Python Numeric Integration Revisited](http://nbviewer.jupyter.org/github/jckantor/CBE30338/blob/master/notebooks/01.04-Python-Numeric-Integration-Revisited.ipynb)
 
 ## Creating the pdfs and tex files:
-
+testing
 Create the conda environment from the file:
 
     $ conda env create -f environment.yml
