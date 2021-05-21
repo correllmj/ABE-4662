@@ -1,7 +1,7 @@
 ## ABE-4662 Quantification of Biological Processes
 ______________________________________
 Working to put ABE 4662 on Github version 5.20.21,
-This Course was designed to integrate into content provided by J. Kantor from Univ. Notre Dame, a special thants to him for allowing access to his excellent work!
+This Course was designed to integrate into content provided by J. Kantor from Univ. Notre Dame, a special thanks to him for allowing access to his excellent work!
 
 ## Topics covered:
 
